@@ -4,6 +4,6 @@
 Is a software service for schools
 
 ## Technologies
-- Go                ->  Backend
-- React (Redux)     ->  Frontend
-- MongoDB           ->  Database
+- Go                 ->  Backend
+- Angular (Ngrx)     ->  Frontend
+- MongoDB            ->  Database
